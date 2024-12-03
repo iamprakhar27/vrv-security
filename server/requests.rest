@@ -1,0 +1,7 @@
+POST http://localhost:3000/admin-login
+
+{
+    "email" : "admin",
+    "password": "admin123"
+
+}
